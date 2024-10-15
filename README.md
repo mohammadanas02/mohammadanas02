@@ -34,7 +34,7 @@ A detailed analysis of Diwali sales, focusing on customer behavior, sales driver
 
 ## 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mohammad-anas02/)
-- [GitHub](https://github.com/your-github-username)
+- [GitHub](https://github.com/mohammadanas02)
 
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss any of my projects!
