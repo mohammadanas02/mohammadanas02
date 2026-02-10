@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad Anas 👋
 
-Welcome to my GitHub profile! I'm a passionate data analyst and developer with a keen interest in machine learning, data visualization, and web development. I thrive on solving complex problems and turning data into actionable insights. Below, you'll find a showcase of some of my recent projects.
+Welcome to my GitHub profile! I'm an AI engineer and developer with a keen interest in machine learning, RAG, Agentic Ai and web development. I thrive on solving complex problems and turning data into actionable insights. Below, you'll find a showcase of some of my recent projects.
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages:** Python, SQL
